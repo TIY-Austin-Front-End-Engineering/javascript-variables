@@ -179,7 +179,12 @@ Evaluate this expression: `numberOfGoats - ++numberOfSheep`
 
 ### Snippet #24
 
-Evaluate this expression: `var x = 7;`
+```js
+var x;
+var y = (x=7);
+```
+
+Evaluate this expression: `y`
 
 
 
